@@ -1,0 +1,76 @@
+\contentsline {chapter}{\numberline {1}Introduction}{7}
+\contentsline {section}{\numberline {1.1}Purpose}{7}
+\contentsline {section}{\numberline {1.2}Scope}{7}
+\contentsline {subsection}{\numberline {1.2.1}Goals}{8}
+\contentsline {section}{\numberline {1.3}Definitions, acronyms and abbreviations}{8}
+\contentsline {subsection}{\numberline {1.3.1}Definitions}{8}
+\contentsline {subsection}{\numberline {1.3.2}Acronyms}{9}
+\contentsline {subsection}{\numberline {1.3.3}Abbreviations}{9}
+\contentsline {section}{\numberline {1.4}References}{10}
+\contentsline {section}{\numberline {1.5}Overview}{10}
+\contentsline {chapter}{\numberline {2}Overall Description}{11}
+\contentsline {section}{\numberline {2.1}Product perspective}{11}
+\contentsline {subsection}{\numberline {2.1.1}System interfaces}{11}
+\contentsline {subsection}{\numberline {2.1.2}User interfaces}{11}
+\contentsline {subsection}{\numberline {2.1.3}Hardware interfaces}{12}
+\contentsline {subsection}{\numberline {2.1.4}Software interfaces}{12}
+\contentsline {subsection}{\numberline {2.1.5}Communications interfaces}{12}
+\contentsline {subsection}{\numberline {2.1.6}Memory contraints}{12}
+\contentsline {section}{\numberline {2.2}Product functions}{12}
+\contentsline {subsection}{\numberline {2.2.1}City Government}{13}
+\contentsline {subsection}{\numberline {2.2.2}Driver}{13}
+\contentsline {subsection}{\numberline {2.2.3}User}{13}
+\contentsline {section}{\numberline {2.3}User characteristics}{13}
+\contentsline {section}{\numberline {2.4}Constraints}{14}
+\contentsline {subsection}{\numberline {2.4.1}Regulatory policies}{14}
+\contentsline {subsection}{\numberline {2.4.2}Hardware limitations}{14}
+\contentsline {subsection}{\numberline {2.4.3}Interfaces to other applications}{14}
+\contentsline {subsection}{\numberline {2.4.4}Parallel operations}{14}
+\contentsline {subsection}{\numberline {2.4.5}Higher-order language requirements}{14}
+\contentsline {subsection}{\numberline {2.4.6}Signal handshake protocols}{14}
+\contentsline {subsection}{\numberline {2.4.7}Reliability requirements}{15}
+\contentsline {subsection}{\numberline {2.4.8}Safety and security considerations}{15}
+\contentsline {section}{\numberline {2.5}Assumptions and dependencies}{15}
+\contentsline {subsection}{\numberline {2.5.1}Assumptions}{15}
+\contentsline {section}{\numberline {2.6}Apportioning of requirements}{15}
+\contentsline {chapter}{\numberline {3}Specific Requirements}{17}
+\contentsline {section}{\numberline {3.1}External interfaces}{17}
+\contentsline {subsection}{\numberline {3.1.1}User Interfaces}{18}
+\contentsline {paragraph}{Administrator's Interfaces}{18}
+\contentsline {paragraph}{Driver's Interfaces}{18}
+\contentsline {paragraph}{Users' Interfaces}{21}
+\contentsline {subsection}{\numberline {3.1.2}APIs}{23}
+\contentsline {subsection}{\numberline {3.1.3}External DBMS}{23}
+\contentsline {subsection}{\numberline {3.1.4}Wired Network}{23}
+\contentsline {subsection}{\numberline {3.1.5}Mobile Radio Network}{24}
+\contentsline {subsection}{\numberline {3.1.6}Software (OS and DBMS)}{24}
+\contentsline {section}{\numberline {3.2}Functions}{24}
+\contentsline {subsection}{\numberline {3.2.1}[G.1] City Government can activate taxis into the system}{24}
+\contentsline {subsection}{\numberline {3.2.2}[G.2] Every user in the city area can use the mobile application or the web application to reserve a taxi}{25}
+\contentsline {subsection}{\numberline {3.2.3}[G.3] Every user, after reserving a taxi, receive an acknowledge by the system communicating the number of the incoming taxi and the ETA}{25}
+\contentsline {subsection}{\numberline {3.2.4}[G.4] It is guaranteed a fair distribution of runs}{26}
+\contentsline {subsection}{\numberline {3.2.5}[G.5] Drivers have the discretion to accept or refuse a call}{26}
+\contentsline {subsection}{\numberline {3.2.6}[G.6] When a registered driver turns on the transponder the system automatically recognize the corresponding taxi as available to the service and inserts it in the corresponding queue based on its position}{26}
+\contentsline {subsection}{\numberline {3.2.7}[G.7] When a registered driver turns off the transponder the system removes the corresponding taxi from the queue}{27}
+\contentsline {subsection}{\numberline {3.2.8}[G.8] The system maintain a QoS of 90\% of users served in max 8 minutes}{27}
+\contentsline {subsection}{\numberline {3.2.9}[G.9] In case of congestion of the system a message is promped to the user}{27}
+\contentsline {section}{\numberline {3.3}Performance requirements}{28}
+\contentsline {section}{\numberline {3.4}Logical database requirements}{28}
+\contentsline {section}{\numberline {3.5}Software system attributes}{28}
+\contentsline {subsection}{\numberline {3.5.1}Reliability}{28}
+\contentsline {subsection}{\numberline {3.5.2}Availability}{28}
+\contentsline {subsection}{\numberline {3.5.3}Security}{28}
+\contentsline {subsection}{\numberline {3.5.4}Maintainability}{28}
+\contentsline {subsection}{\numberline {3.5.5}Portability}{29}
+\contentsline {chapter}{\numberline {4}Appendix}{31}
+\contentsline {section}{\numberline {4.1}UML Models}{31}
+\contentsline {subsection}{\numberline {4.1.1}Use Cases}{31}
+\contentsline {paragraph}{RegisterTaxi}{31}
+\contentsline {paragraph}{TurnOnTransponder}{32}
+\contentsline {paragraph}{TurnOffTransponder}{32}
+\contentsline {paragraph}{ReserveTaxi}{33}
+\contentsline {paragraph}{PromptRun}{33}
+\contentsline {paragraph}{AcknowledgeReservation}{34}
+\contentsline {paragraph}{SystemCongestion}{34}
+\contentsline {paragraph}{BroadcastMessage}{34}
+\contentsline {chapter}{\numberline {5}Revision}{35}

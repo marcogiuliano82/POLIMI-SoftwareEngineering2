@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.5)  5 NOV 2015 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.5)  11 NOV 2015 21:52
 entering extended mode
 **"[RASD] myTaxiService.tex"
 ("[RASD] myTaxiService.tex"
@@ -22,46 +22,298 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+\c@tracingmulticols=\count89
+\mult@box=\box26
+\multicol@leftmargin=\dimen105
+\c@unbalance=\count90
+\c@collectmore=\count91
+\doublecol@number=\count92
+\multicoltolerance=\count93
+\multicolpretolerance=\count94
+\full@width=\dimen106
+\page@free=\dimen107
+\premulticols=\dimen108
+\postmulticols=\dimen109
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen110
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count95
+\c@finalcolumnbadness=\count96
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count97
+)
 ("[RASD] myTaxiService.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen114
+\scratchbox=\box52
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen115
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks16
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 6.
+(Font)              <14.4> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 8.
  [1
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
-] ("[RASD] myTaxiService.toc")
+]
+("[RASD] myTaxiService.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [3] [4])
 \tf@toc=\write3
- [3] ("[RASD] myTaxiService.aux") ) 
+ [5] [6
+
+]
+Chapter 1.
+[7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+ [8] [9]
+Overfull \hbox (0.94423pt too wide) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/12 Specification doc-u-ment \OT1/cmr/bx/n/12 As-sign-ments 1 and
+ 2 (RASD and DD).pdf
+ []
+
+[10]
+Chapter 2.
+[11
+
+] [12] [13] [14] [15] [16]
+Chapter 3.
+<admin_page.jpg, id=58, 373.395pt x 224.63925pt>
+File: admin_page.jpg Graphic file (type jpg)
+ <use admin_page.jpg>
+Package pdftex.def Info: admin_page.jpg used on input line 189.
+(pdftex.def)             Requested size: 373.39409pt x 224.63869pt.
+
+Underfull \vbox (badness 4608) has occurred while \output is active []
+
+ [17
+
+]
+<driver_page1.jpg, id=62, 373.395pt x 232.4685pt>
+File: driver_page1.jpg Graphic file (type jpg)
+ <use driver_page1.jpg>
+Package pdftex.def Info: driver_page1.jpg used on input line 192.
+(pdftex.def)             Requested size: 373.39409pt x 232.46793pt.
+
+<driver_page2.jpg, id=63, 373.395pt x 233.07076pt>
+File: driver_page2.jpg Graphic file (type jpg)
+ <use driver_page2.jpg>
+Package pdftex.def Info: driver_page2.jpg used on input line 197.
+(pdftex.def)             Requested size: 373.39409pt x 233.07018pt.
+
+<driver_page3.jpg, id=64, 373.395pt x 232.4685pt>
+File: driver_page3.jpg Graphic file (type jpg)
+ <use driver_page3.jpg>
+Package pdftex.def Info: driver_page3.jpg used on input line 202.
+(pdftex.def)             Requested size: 373.39409pt x 232.46793pt.
+
+<driver_page4.jpg, id=65, 373.395pt x 232.4685pt>
+File: driver_page4.jpg Graphic file (type jpg)
+ <use driver_page4.jpg>
+Package pdftex.def Info: driver_page4.jpg used on input line 207.
+(pdftex.def)             Requested size: 373.39409pt x 232.46793pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--210
+
+ []
+
+[18 <./admin_page.jpg> <./driver_page1.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <./driver_page2.jpg> <./driver_page3.jpg>]
+<mobile_page1.jpg, id=73, 203.5605pt x 281.25075pt>
+File: mobile_page1.jpg Graphic file (type jpg)
+ <use mobile_page1.jpg>
+Package pdftex.def Info: mobile_page1.jpg used on input line 212.
+(pdftex.def)             Requested size: 203.56pt x 281.25005pt.
+
+<mobile_page2.jpg, id=74, 204.16275pt x 281.853pt>
+File: mobile_page2.jpg Graphic file (type jpg)
+ <use mobile_page2.jpg>
+Package pdftex.def Info: mobile_page2.jpg used on input line 217.
+(pdftex.def)             Requested size: 204.16225pt x 281.85231pt.
+
+<mobile_page3.jpg, id=75, 204.16275pt x 282.45525pt>
+File: mobile_page3.jpg Graphic file (type jpg)
+ <use mobile_page3.jpg>
+Package pdftex.def Info: mobile_page3.jpg used on input line 222.
+(pdftex.def)             Requested size: 204.16225pt x 282.45454pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--225
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./driver_page4.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./mobile_page1.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./mobile_page2.jpg>] [23 <./mobile_page3.jpg>] [24] [25]
+Overfull \hbox (29.78627pt too wide) in paragraph at lines 279--279
+[]\OT1/cmr/bx/n/14.4 [G.6] When a reg-is-tered driver turns on the transpon-
+ []
+
+[26]
+Overfull \hbox (30.23627pt too wide) in paragraph at lines 287--287
+[]\OT1/cmr/bx/n/14.4 [G.7] When a reg-is-tered driver turns off the transpon-
+ []
+
+[27] [28] [29] [30
+
+]
+Chapter 4.
+<USECase.jpg, id=110, 385.44pt x 271.61475pt>
+File: USECase.jpg Graphic file (type jpg)
+ <use USECase.jpg>
+Package pdftex.def Info: USECase.jpg used on input line 327.
+(pdftex.def)             Requested size: 385.43906pt x 271.61407pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+[31 <./USECase.jpg>] [32]
+Overfull \hbox (17.78185pt too wide) in paragraph at lines 377--378
+[]\OT1/cmr/m/n/12 The sys-tem as-sign a taxi to the ser-vice and ex-e-cutes the
+ "PromptRun"
+ []
+
+[33] [34]
+Chapter 5.
+[35
+
+] ("[RASD] myTaxiService.aux") ) 
 Here is how much of TeX's memory you used:
- 242 strings out of 493698
- 2691 string characters out of 3144385
- 52149 words of memory out of 3000000
- 3646 multiletter control sequences out of 15000+200000
- 6108 words of font info for 22 fonts, out of 3000000 for 9000
+ 1337 strings out of 493698
+ 17909 string characters out of 3144385
+ 78742 words of memory out of 3000000
+ 4684 multiletter control sequences out of 15000+200000
+ 10113 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 22i,6n,19p,143b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr17.pfb>
-Output written on "[RASD] myTaxiService.pdf" (3 pages, 32731 bytes).
+ 27i,6n,19p,384b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "[RASD] myTaxiService.pdf" (35 pages, 399141 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
